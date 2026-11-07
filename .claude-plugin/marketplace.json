@@ -1,0 +1,13 @@
+{
+  "name": "rico-roblox",
+  "owner": {
+    "name": "Rico"
+  },
+  "plugins": [
+    {
+      "name": "roblox-agent-team",
+      "source": "./plugins/roblox-agent-team",
+      "description": "Make a Roblox game start to finish: market research, planning, an orchestrated build team (planner, scripter, builder, Blender artist, reviewer), launch and weekly live-ops."
+    }
+  ]
+}

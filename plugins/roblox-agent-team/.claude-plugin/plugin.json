@@ -1,0 +1,8 @@
+{
+  "name": "roblox-agent-team",
+  "version": "3.0.0",
+  "description": "Make a Roblox game start to finish: market research, planning, an orchestrated build team (planner, scripter, builder, Blender artist, reviewer), launch and weekly live-ops.",
+  "author": {
+    "name": "Rico"
+  }
+}
